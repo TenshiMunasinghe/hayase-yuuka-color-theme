@@ -1,0 +1,21 @@
+{
+    "name": "hayase-yuuka-color-theme",
+    "displayName": "hayase-yuuka-color-theme",
+    "description": "Color theme of Hayase Yuuka from Blue Archive",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.82.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hayase Yuuka Color Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hayase Yuuka Color Theme-color-theme.json"
+            }
+        ]
+    }
+}
